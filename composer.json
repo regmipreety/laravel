@@ -1,0 +1,10 @@
+{
+    "name": "user/laravel",
+    "authors": [
+        {
+            "name": "preety",
+            "email": "priety.regmi46@gmail.com"
+        }
+    ],
+    "require": {}
+}
